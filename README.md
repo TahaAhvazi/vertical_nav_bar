@@ -10,6 +10,7 @@ By using this package, you will be able to easily create a beautiful bottom navi
 
 
 
+![image](https://user-images.githubusercontent.com/86960501/229308643-0e0e09ce-c48b-47d5-bef3-6bd32e0113c2.png)
 
 
 
