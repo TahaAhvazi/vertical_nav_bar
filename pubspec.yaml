@@ -1,7 +1,7 @@
 name: vertical_nav_bar
 description: A new Flutter package that allows you to create nav bars vertically with classic black and white design.
 version: 0.0.1
-homepage:
+homepage: https://github.com/TahaAhvazi/vertical_nav_bar
 
 environment:
   sdk: '>=2.19.1 <3.0.0'
