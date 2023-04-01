@@ -1,5 +1,5 @@
 
-# VERTICAL NAV BAR (BLACK $ WHITE ◾◻️)💫
+# VERTICAL NAV BAR (BLACK & WHITE ◾◻️)💫
 
 By using this package, you will be able to easily create a beautiful bottom navigation bar in flutter and use it on diffrent Os, here is the documantation about how to use it💡
 
